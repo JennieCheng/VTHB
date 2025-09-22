@@ -168,6 +168,27 @@ class VTHBWrapper:
 
 ```
 
+## Datasets
+
+All datasets used in the experiments are **publicly available**:
+
+- **GLOVE1.2M**  
+  Source: [Stanford NLP](https://nlp.stanford.edu/projects/glove/)  
+  License: *Apache License 2.0* [Pennington et al., 2014]
+
+- **MSONG**  
+  Source: [UCI / Columbia University](https://labrosa.ee.columbia.edu/millionsong/)  
+  License: *Creative Commons Attribution 4.0 (CC BY 4.0)* [Bertin-Mahieux et al., 2011]
+
+- **SIFT1M**  
+  Source: [BIGANN collection](http://corpus-texmex.irisa.fr/)  
+  License: Publicly accessible. No explicit license in the original release.
+
+- **GIST1M**  
+  Source: [BIGANN collection](http://corpus-texmex.irisa.fr/)  
+  License: Publicly accessible. No explicit license in the original release.
+
+⚠️ *Note: For SIFT1M and GIST1M, the original distribution does not specify license terms explicitly. They are widely used for academic purposes.*
 
 ## License
 
